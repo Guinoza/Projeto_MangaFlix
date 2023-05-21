@@ -48,12 +48,12 @@ nav{
     align-items: center;
 }
 
-.logo_image{
+.logo__image{
     width: 92px;
     height: 72px;
 }
 
-.logo_titulo{
+.logo__titulo{
     font-family: "Delicious Handrawn";
     color: white;
     font-size: 1.3rem;
@@ -93,7 +93,7 @@ hr{
     display: flex;
 }
 
-.btn_start{
+.btn__start{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -103,7 +103,7 @@ hr{
     height: 50px;
 }
 
-.btn_plan{
+.btn__plan{
     background-color: #252c57;
     border-radius: 40px;
     width: 200px;
