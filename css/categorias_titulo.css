@@ -1,7 +1,7 @@
 .categorias_titulo {
     width: auto;
     height: 600px;
-    background-color: #190330;
+    background-color: #f49020;
     display: grid;
     grid-template-columns: repeat(8, 1fr);
     grid-template-rows: repeat(4, 1fr);
@@ -25,7 +25,7 @@ p {
 }
 
 .caracteristicas_bloco1, .caracteristicas_bloco2, .caracteristicas_bloco3, .caracteristicas_bloco4 {
-    background-color: #290944;
+    background-color: #f59b34;
     margin: 16px;
     border-radius: 8px;
     padding: 8px;
